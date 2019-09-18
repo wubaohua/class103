@@ -196,20 +196,5 @@ public class ESManager {
     public void end() throws Exception{
         client.close();
     }
-	
-	
-    @Test
-    public void test() throws Exception{
-        System.out.println("这是张小三的方法")
-		
-    }
 
-	
-	
-
-    @Test
-    public void test() throws Exception{
-       System.out.println("这是李四的方法")
-    }
-	
 }
