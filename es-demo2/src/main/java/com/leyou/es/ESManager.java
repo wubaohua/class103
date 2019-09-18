@@ -204,4 +204,12 @@ public class ESManager {
 		
     }
 
+	
+	
+
+    @Test
+    public void test() throws Exception{
+       System.out.println("这是李四的方法")
+    }
+	
 }
