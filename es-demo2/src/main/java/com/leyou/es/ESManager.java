@@ -200,7 +200,7 @@ public class ESManager {
 	
     @Test
     public void test() throws Exception{
-        System.out.println("这是张三的方法")
+        System.out.println("这是张小三的方法")
 		
     }
 
